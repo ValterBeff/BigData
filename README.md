@@ -59,11 +59,7 @@ A categoria "Normal" refere-se a indivíduos que, embora possam apresentar probl
 
 - Python
 - Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Outros (adicionar conforme necessário)
+
 
 ## Assuntos Abordados
 
