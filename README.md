@@ -4,10 +4,6 @@
 
 Este projeto visa analisar e interpretar dados relacionados a transtornos mentais utilizando técnicas de Big Data. Através da análise de grandes volumes de dados, buscamos identificar padrões, tendências e informações que possam contribuir para a compreensão e o tratamento de transtornos mentais.
 
-## Instruções de Instalação
-
-Para configurar seu ambiente para o projeto, você precisará instalar os seguintes pacotes:
-
 ## Colaboradores
 
 <table>
@@ -41,6 +37,10 @@ Para configurar seu ambiente para o projeto, você precisará instalar os seguin
 ## Links Úteis
 
 - [Base de Dados Utilizada](https://www.kaggle.com/datasets/cid007/mental-disorder-classification/data)
+
+## Instruções de Instalação
+
+Para configurar seu ambiente para o projeto, você precisará instalar os seguintes pacotes:
 
 ### Instalar Pacotes Necessários
 
