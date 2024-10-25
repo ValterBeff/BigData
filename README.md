@@ -49,11 +49,7 @@ A categoria "Normal" refere-se a indivíduos que, embora possam apresentar probl
 
 - Python
 - Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Outros (adicionar conforme necessário)
+
 
 ## Assuntos Abordados
 
@@ -66,4 +62,4 @@ A categoria "Normal" refere-se a indivíduos que, embora possam apresentar probl
 
 ## Links Úteis
 
-- [Base de Dados Utilizada](link-para-base-de-dados)
+- [Mental Disorder Classification](https://www.kaggle.com/datasets/cid007/mental-disorder-classification/data)
