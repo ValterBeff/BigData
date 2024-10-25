@@ -2,20 +2,20 @@
 
 ## Descrição do Projeto
 
-Este projeto tem como objetivo analisar e interpretar dados relacionados a transtornos mentais utilizando técnicas de Big Data. Através da análise de grandes volumes de dados, buscamos identificar padrões, tendências e informações úteis que possam contribuir para a compreensão e o tratamento de transtornos mentais.
+Este projeto visa analisar e interpretar dados relacionados a transtornos mentais utilizando técnicas de Big Data. Através da análise de grandes volumes de dados, buscamos identificar padrões, tendências e informações que possam contribuir para a compreensão e o tratamento de transtornos mentais.
 
 ## Banco de Dados
 
-Este banco de dados consiste em uma coleção de 120 pacientes que foram avaliados em relação a 17 sintomas essenciais para o diagnóstico de transtornos mentais, incluindo:
+O banco de dados consiste em uma coleção de 120 pacientes avaliados quanto a 17 sintomas essenciais para o diagnóstico de:
 
-- Transtorno Bipolar Maníaco
-- Transtorno Bipolar Depressivo
-- Transtorno Depressivo Maior
-- Indivíduos Normais
+- **Transtorno Bipolar Maníaco**
+- **Transtorno Bipolar Depressivo**
+- **Transtorno Depressivo Maior**
+- **Indivíduos Normais**
 
 ### Sintomas Avaliados
 
-Os 17 sintomas essenciais, que são comumente utilizados por psiquiatras para diagnóstico, incluem:
+Os 17 sintomas essenciais, utilizados por psiquiatras para diagnóstico, incluem:
 
 1. Níveis de tristeza
 2. Exaustão
@@ -43,13 +43,27 @@ A categoria "Normal" refere-se a indivíduos que, embora possam apresentar probl
 
 ## Colaboradores
 
-- **Valter Beff** - [Valter Beff](https://github.com/ValterBeff)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ValterBeff">
+        <img src="https://github.com/ValterBeff.png" width="100px;" alt="Foto do Valter Beff"/><br />
+        <sub><b>Valter Beff</b></sub>
+      </a><br />
+      👨‍💻 Desenvolvedor
+    </td>
+  </tr>
+</table>
 
 ## Tecnologias Utilizadas
 
 - Python
 - Pandas
-
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Outros (adicionar conforme necessário)
 
 ## Assuntos Abordados
 
@@ -62,4 +76,4 @@ A categoria "Normal" refere-se a indivíduos que, embora possam apresentar probl
 
 ## Links Úteis
 
-- [Mental Disorder Classification](https://www.kaggle.com/datasets/cid007/mental-disorder-classification/data)
+- [Base de Dados Utilizada](https://www.kaggle.com/datasets/cid007/mental-disorder-classification/data)
