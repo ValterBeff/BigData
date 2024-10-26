@@ -1,25 +1,36 @@
 # Projeto de Análise de Dados de Saúde Mental
 
-Este projeto apresenta um script em Python, denominado `Tabela.py`, que analisa dados sobre transtornos mentais.
-
 ## Descrição do Arquivo Tabela.py
+O arquivo `Tabela.py` é responsável por gerar uma tabela de exemplo que ilustra a relação entre os pacientes e os diversos transtornos que podem afetá-los. Essa tabela serve como um modelo prático para análise de dados, facilitando a visualização e a compreensão das informações.
 
-O arquivo `Tabela.py` realiza as seguintes operações:
+## Descrição do Arquivo Detalhes.py
+O arquivo `Detalhes.py` apresenta um gráfico que representa visualmente os resultados da pesquisa realizada com os pacientes, destacando a incidência de diferentes transtornos. Esse gráfico proporciona uma visão clara das tendências e padrões encontrados nos dados, auxiliando na interpretação dos resultados.
 
-1. **Importação de Bibliotecas**: Utiliza `pandas` para manipulação de dados e `matplotlib` para visualização.
+## Imagem Gerada (Tabela.py)
 
-2. **Leitura do Arquivo CSV**: Carrega um arquivo CSV chamado `Dataset-Mental-Disorders.csv` a partir do diretório atual.
-
-3. **Limpeza de Dados**: Remove espaços em branco dos nomes das colunas e os converte para minúsculas.
-
-4. **Seleção de Dados**: Extrai e exibe as primeiras 10 linhas de colunas específicas relacionadas a pacientes.
-
-5. **Criação de Tabela**: Gera uma tabela visual com as informações selecionadas e adiciona traduções dos cabeçalhos.
-
-6. **Exibição**: Mostra a tabela em uma janela gráfica.
-
-## Imagem Gerada
-
-Abaixo está uma imagem da tabela gerada pelo código:
+Abaixo está a imagem da tabela gerada pelo código:
 
 ![Tabela dos Pacientes](img/Figure_1.png)
+
+## Imagens Geradas (Detalhes.py)
+
+Abaixo estão as imagens dos gráficos gerados pelo código:
+
+![Tabela de Sadness](img/grafico_Sadness.png)
+![Tabela de Euphoric](img/grafico_Euphoric.png)
+![Tabela de Exhausted](img/grafico_Exhausted.png)
+![Tabela de Sleep disorder](img/grafico_Sleep_disorder.png)
+![Tabela de Mood Swing](img/grafico_Mood_Swing.png)
+![Tabela de Suicidal thoughts](img/grafico_Suicidal_thoughts.png)
+![Tabela de Anorexia](img/grafico_Anorexia.png)
+![Tabela de Authority Respect](img/grafico_Authority_Respect.png)
+![Tabela de Try-Explanation](img/grafico_Try_Explanation.png)
+![Tabela de Aggressive Response](img/grafico_Aggressive_Response.png)
+![Tabela de Ignore & Move-On](img/grafico_Ignore_Move_On.png)
+![Tabela de Nervous Break-down](img/grafico_Nervous_Break_down.png)
+![Tabela de Admit Mistakes](img/grafico_Admit_Mistakes.png)
+![Tabela de Overthinking](img/grafico_Overthinking.png)
+![Tabela de Sexual Activity](img/grafico_pizza_Sexual_Activity.png)
+![Tabela de Concentration](img/grafico_pizza_Concentration.png)
+![Tabela de Optimism](img/grafico_pizza_Optimism.png)
+![Tabela de Expert Diagnose](img/grafico_Expert_Diagnose.png)
