@@ -1,4 +1,4 @@
-# Projeto de Análise de Dados de Saúde Mental
+# Projeto de Análise de Dados de Saúde Mental - Python
 
 ## Descrição do Arquivo Tabela.py
 O arquivo `Tabela.py` é responsável por gerar uma tabela de exemplo que ilustra a relação entre os pacientes e os diversos transtornos que podem afetá-los. Essa tabela serve como um modelo prático para análise de dados, facilitando a visualização e a compreensão das informações.
