@@ -22,7 +22,10 @@ Este projeto visa analisar e interpretar dados relacionados a transtornos mentai
 
 - Python
 - Pandas
+- Kagglehub
 - Matplotlib
+- Seaborn
+- Numpy
 
 
 ## Assuntos Abordados
@@ -49,4 +52,4 @@ pip install kagglehub #biblioteca kagglehub
 pip install pandas #biblioteca pandas
 pip install matplotlib #biblioteca matplotlib
 pip install seaborn #biblioteca seaborn
-pip install scikit-learn #bibliotecas do Scikit-learn
+pip install numpy #biblioteca numpy
