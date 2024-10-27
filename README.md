@@ -18,6 +18,54 @@ Este projeto visa analisar e interpretar dados relacionados a transtornos mentai
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Cadu-m">
+        <img src="https://github.com/Cadu-m.png" width="100px;" alt="Foto do Carlos Mendes"/><br />
+        <sub><b>Carlos Mendes</b></sub>
+      </a><br />
+      👨‍💻 Desenvolvedor
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Cynale19">
+        <img src="https://github.com/Cynale19.png" width="100px;" alt="Foto do Cynthia Ferreira"/><br />
+        <sub><b>Cynthia Ferreira</b></sub>
+      </a><br />
+      👨‍💻 Desenvolvedor
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/PatoZezinho">
+        <img src="https://github.com/PatoZezinho.png" width="100px;" alt="Foto do Nykollas Silva"/><br />
+        <sub><b>Nykollas Silva</b></sub>
+      </a><br />
+      👨‍💻 Desenvolvedor
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="#" width="100px;" alt="Foto do Davi Silva"/><br />
+        <sub><b>Davi Silva</b></sub>
+      </a><br />
+      👨‍💻 Desenvolvedor
+    </td>
+  </tr>
+</table>
+
 ## Tecnologias Utilizadas
 
 - Python
