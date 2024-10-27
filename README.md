@@ -10,58 +10,38 @@ Este projeto visa analisar e interpretar dados relacionados a transtornos mentai
   <tr>
     <td align="center">
       <a href="https://github.com/ValterBeff">
-        <img src="https://github.com/ValterBeff.png" width="100px;" alt="Foto do Valter Beff"/><br />
+        <img src="https://github.com/ValterBeff.png" width="100px;" alt="Foto de Valter Beff"/><br />
         <sub><b>Valter Beff</b></sub>
       </a><br />
-      👨‍💻 Desenvolvedor
+      Desenvolvedor
     </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td align="center">
       <a href="https://github.com/Cadu-m">
-        <img src="https://github.com/Cadu-m.png" width="100px;" alt="Foto do Carlos Mendes"/><br />
+        <img src="https://github.com/Cadu-m.png" width="100px;" alt="Foto de Carlos Mendes"/><br />
         <sub><b>Carlos Mendes</b></sub>
       </a><br />
-      👨‍💻 Desenvolvedor
+      Desenvolvedor
     </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td align="center">
       <a href="https://github.com/Cynale19">
-        <img src="https://github.com/Cynale19.png" width="100px;" alt="Foto do Cynthia Ferreira"/><br />
+        <img src="https://github.com/Cynale19.png" width="100px;" alt="Foto de Cynthia Ferreira"/><br />
         <sub><b>Cynthia Ferreira</b></sub>
       </a><br />
-      👨‍💻 Desenvolvedor
+      Desenvolvedor
     </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td align="center">
       <a href="https://github.com/PatoZezinho">
-        <img src="https://github.com/PatoZezinho.png" width="100px;" alt="Foto do Nykollas Silva"/><br />
+        <img src="https://github.com/PatoZezinho.png" width="100px;" alt="Foto de Nykollas Silva"/><br />
         <sub><b>Nykollas Silva</b></sub>
       </a><br />
-      👨‍💻 Desenvolvedor
+      Desenvolvedor
     </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td align="center">
       <a href="#">
-        <img src="#" width="100px;" alt="Foto do Davi Silva"/><br />
+        <img src="#" width="100px;" alt="Foto de Davi Silva"/><br />
         <sub><b>Davi Silva</b></sub>
       </a><br />
-      👨‍💻 Desenvolvedor
+      Desenvolvedor
     </td>
   </tr>
 </table>
@@ -74,7 +54,6 @@ Este projeto visa analisar e interpretar dados relacionados a transtornos mentai
 - Matplotlib
 - Seaborn
 - Numpy
-
 
 ## Assuntos Abordados
 
