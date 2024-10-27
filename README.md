@@ -17,29 +17,29 @@ Este projeto visa analisar e interpretar dados relacionados a transtornos mentai
     </td>
     <td align="center">
       <a href="https://github.com/Cadu-m">
-        <img src="https://github.com/Cadu-m.png" width="100px;" alt="Foto de Carlos Mendes"/><br />
-        <sub><b>Carlos Mendes</b></sub>
+        <img src="https://github.com/Cadu-m.png" width="100px;" alt="Foto de Carlos"/><br />
+        <sub><b>Carlos</b></sub>
       </a><br />
       Desenvolvedor
     </td>
     <td align="center">
       <a href="https://github.com/Cynale19">
-        <img src="https://github.com/Cynale19.png" width="100px;" alt="Foto de Cynthia Ferreira"/><br />
-        <sub><b>Cynthia Ferreira</b></sub>
+        <img src="https://github.com/Cynale19.png" width="100px;" alt="Foto de Cynthia"/><br />
+        <sub><b>Cynthia</b></sub>
       </a><br />
       Desenvolvedor
     </td>
     <td align="center">
       <a href="https://github.com/PatoZezinho">
-        <img src="https://github.com/PatoZezinho.png" width="100px;" alt="Foto de Nykollas Silva"/><br />
-        <sub><b>Nykollas Silva</b></sub>
+        <img src="https://github.com/PatoZezinho.png" width="100px;" alt="Foto de Nykollas Dias"/><br />
+        <sub><b>Nykollas Dias</b></sub>
       </a><br />
       Desenvolvedor
     </td>
     <td align="center">
       <a href="#">
-        <img src="#" width="100px;" alt="Foto de Davi Silva"/><br />
-        <sub><b>Davi Silva</b></sub>
+        <img src="#" width="100px;" alt="Foto de Davi Borges"/><br />
+        <sub><b>Davi Borges</b></sub>
       </a><br />
       Desenvolvedor
     </td>
