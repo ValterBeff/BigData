@@ -37,8 +37,8 @@ Este projeto visa analisar e interpretar dados relacionados a transtornos mentai
       Desenvolvedor
     </td>
     <td align="center">
-      <a href="#">
-        <img src="#" width="100px;" alt="Foto de Davi Borges"/><br />
+      <a href="https://github.com/Borgenetico">
+        <img src="https://github.com/Borgenetico.png" width="100px;" alt="Foto de Davi Borges"/><br />
         <sub><b>Davi Borges</b></sub>
       </a><br />
       Desenvolvedor
