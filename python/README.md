@@ -3,8 +3,8 @@
 ## Descrição do Arquivo Tabela.py
 O arquivo `Tabela.py` é responsável por gerar uma tabela de exemplo que ilustra a relação entre os pacientes e os diversos transtornos que podem afetá-los. Essa tabela serve como um modelo prático para análise de dados, facilitando a visualização e a compreensão das informações.
 
-## Descrição do Arquivo Detalhes.py
-O arquivo `Detalhes.py` apresenta um gráfico que representa visualmente os resultados da pesquisa realizada com os pacientes, destacando a incidência de diferentes transtornos. Esse gráfico proporciona uma visão clara das tendências e padrões encontrados nos dados, auxiliando na interpretação dos resultados.
+## Descrição do Arquivo Grafico.py
+O arquivo `Grafico.py` apresenta um gráfico que representa visualmente os resultados da pesquisa realizada com os pacientes, destacando a incidência de diferentes transtornos. Esse gráfico proporciona uma visão clara das tendências e padrões encontrados nos dados, auxiliando na interpretação dos resultados.
 
 ## Imagem Gerada (Tabela.py)
 
@@ -12,7 +12,7 @@ Abaixo está a imagem da tabela gerada pelo código:
 
 ![Tabela dos Pacientes](img/tabela_pacientes.png)
 
-## Imagens Geradas (Detalhes.py)
+## Imagens Geradas (Grafico.py)
 
 Abaixo estão as imagens dos gráficos gerados pelo código:
 
