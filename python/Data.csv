@@ -1,0 +1,121 @@
+Número do Paciente,Tristeza,Eufórico,Esgotado,Distúrbio do Sono,Mudança de Humor,Pensamentos Suicidas,Anorexia,Autoridade Respeito,Tentar-Explicação,Resposta Agressiva,Desconsiderar,Colapso Nervoso,Admitir Erros,Desânimo,Atividade Sexual,Concentração,Otimismo,Diagnóstico
+Paciente-01,Frequentemente,Raramente,Às-Vezes,Às-Vezes,SIM,SIM,NÃO,NÃO,SIM,NÃO,NÃO,SIM,SIM,SIM,Nível 03,Nível 03,Nível 04,Bipolar Tipo 2
+Paciente-02,Frequentemente,Raramente,Frequentemente,Às-Vezes,NÃO,SIM,NÃO,NÃO,NÃO,NÃO,NÃO,NÃO,NÃO,NÃO,Nível 04,Nível 02,Nível 05,Depressão
+Paciente-03,Às-Vezes,Com-Mais-Frequência,Às-Vezes,Às-Vezes,SIM,NÃO,NÃO,NÃO,SIM,SIM,NÃO,SIM,SIM,NÃO,Nível 06,Nível 05,Nível 07,Bipolar Tipo 1
+Paciente-04,Frequentemente,Raramente,Frequentemente,Com-Mais-Frequência,SIM,SIM,SIM,NÃO,SIM,NÃO,NÃO,NÃO,NÃO,NÃO,Nível 03,Nível 02,Nível 02,Bipolar Tipo 2
+Paciente-05,Frequentemente,Frequentemente,Às-Vezes,Às-Vezes,NÃO,NÃO,NÃO,NÃO,NÃO,NÃO,NÃO,SIM,SIM,SIM,Nível 05,Nível 05,Nível 06,Normal
+Paciente-06,Frequentemente,Às-Vezes,Às-Vezes,Com-Mais-Frequência,NÃO,SIM,SIM,SIM,NÃO,NÃO,NÃO,NÃO,SIM,NÃO,Nível 03,Nível 05,Nível 05,Depressão
+Paciente-07,Raramente,Frequentemente,Raramente,Às-Vezes,SIM,SIM,SIM,NÃO,SIM,SIM,NÃO,SIM,SIM,SIM,Nível 07,Nível 02,Nível 09,Bipolar Tipo 1
+Paciente-08,Frequentemente,Às-Vezes,Às-Vezes,Às-Vezes,NÃO,NÃO,NÃO,NÃO,SIM,NÃO,NÃO,NÃO,NÃO,SIM,Nível 05,Nível 05,Nível 05,Normal
+Paciente-09,Com-Mais-Frequência,Raramente,Com-Mais-Frequência,Frequentemente,SIM,SIM,SIM,NÃO,SIM,SIM,NÃO,SIM,NÃO,NÃO,Nível 08,Nível 02,Nível 03,Bipolar Tipo 2
+Paciente-10,Frequentemente,Raramente,Com-Mais-Frequência,Às-Vezes,NÃO,NÃO,NÃO,NÃO,SIM,NÃO,NÃO,SIM,SIM,SIM,Nível 03,Nível 04,Nível 02,Depressão
+Paciente-11,Raramente,Às-Vezes,Raramente,Raramente,NÃO,NÃO,NÃO,SIM,NÃO,NÃO,NÃO,NÃO,SIM,NÃO,Nível 05,Nível 07,Nível 08,Normal
+Paciente-12,Raramente,Às-Vezes,Às-Vezes,Frequentemente,SIM,SIM,SIM,NÃO,SIM,SIM,NÃO,SIM,NÃO,SIM,Nível 08,Nível 04,Nível 09,Bipolar Tipo 1
+Paciente-13,Com-Mais-Frequência,Às-Vezes,Com-Mais-Frequência,Frequentemente,SIM,SIM,SIM,NÃO,SIM,SIM,NÃO,SIM,NÃO,SIM,Nível 09,Nível 02,Nível 04,Bipolar Tipo 2
+Paciente-14,Frequentemente,Frequentemente,Às-Vezes,Às-Vezes,NÃO,NÃO,NÃO,SIM,NÃO,NÃO,NÃO,NÃO,NÃO,NÃO,Nível 05,Nível 07,Nível 05,Normal
+Paciente-15,Frequentemente,Raramente,Com-Mais-Frequência,Frequentemente,NÃO,SIM,NÃO,NÃO,SIM,NÃO,SIM,SIM,SIM,SIM,Nível 05,Nível 04,Nível 02,Depressão
+Paciente-16,Às-Vezes,Às-Vezes,Às-Vezes,Às-Vezes,SIM,NÃO,SIM,NÃO,SIM,SIM,NÃO,NÃO,NÃO,SIM,Nível 06,Nível 04,Nível 06,Bipolar Tipo 1
+Paciente-17,Às-Vezes,Frequentemente,Às-Vezes,Às-Vezes,NÃO,NÃO,NÃO,NÃO,SIM,NÃO,NÃO,NÃO,SIM,NÃO,Nível 05,Nível 04,Nível 06,Normal
+Paciente-18,Frequentemente,Às-Vezes,Com-Mais-Frequência,Às-Vezes,SIM,NÃO,NÃO,NÃO,SIM,SIM,NÃO,SIM,NÃO,SIM,Nível 06,Nível 02,Nível 03,Bipolar Tipo 1
+Paciente-19,Com-Mais-Frequência,Raramente,Com-Mais-Frequência,Com-Mais-Frequência,NÃO,NÃO,NÃO,NÃO,SIM,NÃO,SIM,SIM,SIM,SIM,Nível 03,Nível 04,Nível 01,Depressão
+Paciente-20,Às-Vezes,Frequentemente,Frequentemente,Às-Vezes,NÃO,NÃO,NÃO,SIM,SIM,SIM,NÃO,NÃO,SIM,SIM,Nível 04,Nível 04,Nível 06,Normal
+Paciente-21,Às-Vezes,Às-Vezes,Às-Vezes,Frequentemente,SIM,NÃO,NÃO,SIM,SIM,SIM,NÃO,SIM,SIM,SIM,Nível 06,Nível 02,Nível 03,Bipolar Tipo 2
+Paciente-22,Frequentemente,Às-Vezes,Às-Vezes,Às-Vezes,SIM,SIM,SIM,NÃO,SIM,SIM,NÃO,NÃO,NÃO,SIM,Nível 06,Nível 04,Nível 06,Bipolar Tipo 1
+Paciente-23,Às-Vezes,Às-Vezes,Às-Vezes,Frequentemente,NÃO,NÃO,SIM,SIM,SIM,NÃO,NÃO,NÃO,NÃO,SIM,Nível 03,Nível 07,Nível 06,Normal
+Paciente-24,Frequentemente,Às-Vezes,Frequentemente,Às-Vezes,NÃO,NÃO,NÃO,NÃO,NÃO,SIM,NÃO,NÃO,NÃO,NÃO,Nível 04,Nível 04,Nível 02,Depressão
+Paciente-25,Frequentemente,Às-Vezes,Às-Vezes,Frequentemente,SIM,NÃO,NÃO,NÃO,NÃO,NÃO,NÃO,SIM,SIM,SIM,Nível 04,Nível 04,Nível 03,Bipolar Tipo 2
+Paciente-26,Às-Vezes,Às-Vezes,Às-Vezes,Raramente,NÃO,NÃO,NÃO,SIM,NÃO,NÃO,SIM,NÃO,SIM,NÃO,Nível 06,Nível 06,Nível 05,Normal
+Paciente-27,Às-Vezes,Às-Vezes,Frequentemente,Às-Vezes,NÃO,NÃO,NÃO,NÃO,SIM,SIM,NÃO,NÃO,NÃO,NÃO,Nível 03,Nível 04,Nível 02,Normal
+Paciente-28,Frequentemente,Raramente,Frequentemente,Frequentemente,NÃO,NÃO,NÃO,NÃO,SIM,NÃO,SIM,SIM,NÃO,SIM,Nível 05,Nível 02,Nível 04,Depressão
+Paciente-29,Frequentemente,Raramente,Frequentemente,Frequentemente,SIM,SIM,SIM,SIM,SIM,NÃO,SIM,SIM,NÃO,SIM,Nível 02,Nível 02,Nível 03,Bipolar Tipo 2
+Paciente-30,Às-Vezes,Às-Vezes,Às-Vezes,Raramente,NÃO,SIM,NÃO,SIM,NÃO,NÃO,SIM,NÃO,SIM,NÃO,Nível 05,Nível 05,Nível 05,Normal
+Paciente-31,Às-Vezes,Com-Mais-Frequência,Às-Vezes,Às-Vezes,SIM,SIM,NÃO,SIM,SIM,SIM,NÃO,SIM,NÃO,NÃO,Nível 03,Nível 02,Nível 06,Bipolar Tipo 1
+Paciente-32,Com-Mais-Frequência,Às-Vezes,Com-Mais-Frequência,Às-Vezes,NÃO,SIM,NÃO,SIM,NÃO,NÃO,SIM,NÃO,SIM,SIM,Nível 04,Nível 04,Nível 03,Depressão
+Paciente-33,Às-Vezes,Raramente,Com-Mais-Frequência,Raramente,SIM,SIM,NÃO,SIM,NÃO,NÃO,SIM,SIM,NÃO,SIM,Nível 05,Nível 05,Nível 04,Bipolar Tipo 2
+Paciente-34,Às-Vezes,Frequentemente,Às-Vezes,Com-Mais-Frequência,SIM,SIM,SIM,NÃO,SIM,SIM,NÃO,NÃO,NÃO,NÃO,Nível 06,Nível 05,Nível 04,Bipolar Tipo 1
+Paciente-35,Às-Vezes,Raramente,Às-Vezes,Raramente,NÃO,NÃO,NÃO,SIM,SIM,NÃO,SIM,NÃO,SIM,NÃO,Nível 05,Nível 05,Nível 06,Normal
+Paciente-36,Com-Mais-Frequência,Raramente,Frequentemente,Às-Vezes,NÃO,NÃO,NÃO,NÃO,NÃO,NÃO,SIM,SIM,SIM,SIM,Nível 02,Nível 04,Nível 04,Depressão
+Paciente-37,Às-Vezes,Raramente,Frequentemente,Raramente,SIM,SIM,SIM,NÃO,SIM,NÃO,NÃO,SIM,NÃO,NÃO,Nível 08,Nível 05,Nível 05,Bipolar Tipo 1
+Paciente-38,Frequentemente,Raramente,Com-Mais-Frequência,Às-Vezes,SIM,SIM,NÃO,SIM,SIM,NÃO,NÃO,SIM,NÃO,NÃO,Nível 04,Nível 03,Nível 04,Bipolar Tipo 2
+Paciente-39,Às-Vezes,Raramente,Frequentemente,Às-Vezes,NÃO,NÃO,NÃO,SIM,NÃO,NÃO,SIM,NÃO,SIM,NÃO,Nível 05,Nível 05,Nível 03,Normal
+Paciente-40,Às-Vezes,Às-Vezes,Às-Vezes,Às-Vezes,SIM,SIM,NÃO,SIM,SIM,SIM,NÃO,NÃO,SIM,NÃO,Nível 03,Nível 03,Nível 02,Bipolar Tipo 2
+Paciente-41,Frequentemente,Às-Vezes,Frequentemente,Às-Vezes,NÃO,SIM,NÃO,NÃO,SIM,NÃO,NÃO,NÃO,NÃO,SIM,Nível 08,Nível 02,Nível 02,Depressão
+Paciente-42,Com-Mais-Frequência,Raramente,Com-Mais-Frequência,Com-Mais-Frequência,SIM,SIM,SIM,NÃO,SIM,NÃO,SIM,SIM,NÃO,SIM,Nível 02,Nível 02,Nível 02,Bipolar Tipo 2
+Paciente-43,Raramente,Às-Vezes,Às-Vezes,Raramente,SIM,NÃO,NÃO,SIM,NÃO,NÃO,SIM,NÃO,SIM,SIM,Nível 04,Nível 04,Nível 06,Normal
+Paciente-44,Às-Vezes,Com-Mais-Frequência,Raramente,Frequentemente,SIM,SIM,SIM,NÃO,NÃO,SIM,NÃO,SIM,NÃO,NÃO,Nível 08,Nível 02,Nível 08,Bipolar Tipo 1
+Paciente-45,Com-Mais-Frequência,Raramente,Com-Mais-Frequência,Com-Mais-Frequência,NÃO,SIM,SIM,NÃO,NÃO,NÃO,SIM,SIM,NÃO,SIM,Nível 04,Nível 03,Nível 03,Depressão
+Paciente-46,Com-Mais-Frequência,Às-Vezes,Frequentemente,Às-Vezes,SIM,NÃO,NÃO,SIM,NÃO,NÃO,SIM,SIM,SIM,NÃO,Nível 04,Nível 04,Nível 04,Bipolar Tipo 2
+Paciente-47,Às-Vezes,Raramente,Frequentemente,Raramente,NÃO,NÃO,NÃO,SIM,NÃO,NÃO,SIM,NÃO,SIM,NÃO,Nível 04,Nível 05,Nível 05,Normal
+Paciente-48,Com-Mais-Frequência,Raramente,Frequentemente,Com-Mais-Frequência,SIM,SIM,NÃO,NÃO,SIM,NÃO,SIM,NÃO,SIM,NÃO,Nível 04,Nível 03,Nível 06,Bipolar Tipo 2
+Paciente-49,Raramente,Frequentemente,Frequentemente,Frequentemente,SIM,SIM,NÃO,NÃO,NÃO,NÃO,NÃO,SIM,NÃO,NÃO,Nível 05,Nível 04,Nível 06,Bipolar Tipo 1
+Paciente-50,Frequentemente,Raramente,Com-Mais-Frequência,Frequentemente,NÃO,NÃO,NÃO,NÃO,NÃO,SIM,NÃO,NÃO,NÃO,NÃO,Nível 04,Nível 04,Nível 03,Depressão
+Paciente-51,Às-Vezes,Às-Vezes,Às-Vezes,Raramente,NÃO,NÃO,NÃO,SIM,NÃO,SIM,SIM,NÃO,SIM,NÃO,Nível 04,Nível 04,Nível 06,Normal
+Paciente-52,Frequentemente,Raramente,Às-Vezes,Às-Vezes,SIM,NÃO,NÃO,NÃO,SIM,SIM,NÃO,NÃO,NÃO,NÃO,Nível 03,Nível 03,Nível 03,Bipolar Tipo 2
+Paciente-53,Com-Mais-Frequência,Raramente,Com-Mais-Frequência,Com-Mais-Frequência,NÃO,SIM,NÃO,NÃO,NÃO,NÃO,SIM,SIM,NÃO,SIM,Nível 02,Nível 02,Nível 02,Depressão
+Paciente-54,Raramente,Frequentemente,Raramente,Com-Mais-Frequência,SIM,NÃO,SIM,SIM,NÃO,SIM,SIM,SIM,NÃO,NÃO,Nível 05,Nível 01,Nível 04,Bipolar Tipo 1
+Paciente-55,Com-Mais-Frequência,Raramente,Com-Mais-Frequência,Com-Mais-Frequência,SIM,SIM,SIM,NÃO,NÃO,SIM,NÃO,SIM,SIM,SIM,Nível 02,Nível 02,Nível 01,Bipolar Tipo 2
+Paciente-56,Às-Vezes,Raramente,Frequentemente,Frequentemente,NÃO,NÃO,SIM,NÃO,NÃO,SIM,SIM,SIM,NÃO,NÃO,Nível 03,Nível 04,Nível 03,Normal
+Paciente-57,Raramente,Com-Mais-Frequência,Com-Mais-Frequência,Com-Mais-Frequência,SIM,NÃO,NÃO,SIM,SIM,NÃO,SIM,NÃO,NÃO,SIM,Nível 05,Nível 04,Nível 06,Bipolar Tipo 1
+Paciente-58,Raramente,Frequentemente,Com-Mais-Frequência,Com-Mais-Frequência,SIM,NÃO,SIM,NÃO,SIM,NÃO,NÃO,NÃO,NÃO,SIM,Nível 07,Nível 02,Nível 02,Bipolar Tipo 1
+Paciente-59,Às-Vezes,Às-Vezes,Com-Mais-Frequência,Frequentemente,NÃO,NÃO,SIM,SIM,NÃO,NÃO,NÃO,SIM,SIM,SIM,Nível 03,Nível 07,Nível 04,Depressão
+Paciente-60,Raramente,Com-Mais-Frequência,Raramente,Raramente,NÃO,NÃO,SIM,NÃO,SIM,NÃO,SIM,NÃO,SIM,NÃO,Nível 05,Nível 04,Nível 04,Normal
+Paciente-61,Frequentemente,Às-Vezes,Frequentemente,Frequentemente,SIM,SIM,NÃO,NÃO,NÃO,SIM,SIM,NÃO,SIM,SIM,Nível 04,Nível 04,Nível 03,Bipolar Tipo 2
+Paciente-62,Frequentemente,Às-Vezes,Frequentemente,Com-Mais-Frequência,NÃO,SIM,NÃO,NÃO,SIM,NÃO,NÃO,SIM,SIM,SIM,Nível 04,Nível 05,Nível 02,Depressão
+Paciente-63,Frequentemente,Raramente,Às-Vezes,Frequentemente,SIM,NÃO,SIM,NÃO,NÃO,SIM,NÃO,NÃO,NÃO,NÃO,Nível 07,Nível 04,Nível 06,Bipolar Tipo 1
+Paciente-64,Com-Mais-Frequência,Raramente,Às-Vezes,Frequentemente,SIM,SIM,SIM,SIM,NÃO,SIM,NÃO,SIM,NÃO,NÃO,Nível 04,Nível 04,Nível 04,Bipolar Tipo 2
+Paciente-65,Às-Vezes,Às-Vezes,Às-Vezes,Frequentemente,NÃO,SIM,SIM,NÃO,SIM,SIM,NÃO,NÃO,NÃO,NÃO,Nível 05,Nível 06,Nível 05,Normal
+Paciente-66,Frequentemente,Raramente,Com-Mais-Frequência,Às-Vezes,NÃO,SIM,NÃO,NÃO,NÃO,NÃO,NÃO,NÃO,SIM,SIM,Nível 03,Nível 05,Nível 02,Depressão
+Paciente-67,Às-Vezes,Frequentemente,Frequentemente,Frequentemente,NÃO,NÃO,SIM,SIM,SIM,NÃO,SIM,NÃO,NÃO,NÃO,Nível 07,Nível 06,Nível 06,Normal
+Paciente-68,Às-Vezes,Raramente,Com-Mais-Frequência,Com-Mais-Frequência,SIM,NÃO,SIM,NÃO,SIM,SIM,NÃO,SIM,SIM,NÃO,Nível 08,Nível 04,Nível 05,Bipolar Tipo 1
+Paciente-69,Frequentemente,Raramente,Com-Mais-Frequência,Frequentemente,SIM,SIM,NÃO,NÃO,SIM,NÃO,NÃO,SIM,SIM,NÃO,Nível 07,Nível 05,Nível 04,Bipolar Tipo 2
+Paciente-70,Às-Vezes,Frequentemente,Às-Vezes,Frequentemente,NÃO,SIM,NÃO,NÃO,NÃO,SIM,NÃO,NÃO,SIM,SIM,Nível 05,Nível 04,Nível 06,Bipolar Tipo 1
+Paciente-71,Às-Vezes,Raramente,Frequentemente,Às-Vezes,NÃO,SIM,NÃO,NÃO,NÃO,SIM,SIM,SIM,SIM,SIM,Nível 02,Nível 06,Nível 02,Depressão
+Paciente-72,Raramente,Raramente,Às-Vezes,Às-Vezes,SIM,SIM,NÃO,SIM,SIM,SIM,SIM,SIM,SIM,SIM,Nível 05,Nível 03,Nível 05,Bipolar Tipo 2
+Paciente-73,Às-Vezes,Raramente,Com-Mais-Frequência,Às-Vezes,SIM,NÃO,NÃO,NÃO,NÃO,SIM,NÃO,SIM,NÃO,NÃO,Nível 07,Nível 05,Nível 07,Bipolar Tipo 1
+Paciente-74,Às-Vezes,Frequentemente,Às-Vezes,Raramente,NÃO,NÃO,NÃO,SIM,NÃO,NÃO,NÃO,SIM,NÃO,SIM,Nível 06,Nível 04,Nível 05,Normal
+Paciente-75,Frequentemente,Às-Vezes,Raramente,Raramente,SIM,NÃO,SIM,NÃO,NÃO,SIM,NÃO,SIM,SIM,SIM,Nível 03,Nível 07,Nível 04,Bipolar Tipo 2
+Paciente-76,Frequentemente,Às-Vezes,Frequentemente,Raramente,NÃO,SIM,SIM,NÃO,SIM,NÃO,SIM,SIM,NÃO,NÃO,Nível 07,Nível 03,Nível 02,Depressão
+Paciente-77,Frequentemente,Às-Vezes,Raramente,Raramente,NÃO,NÃO,SIM,NÃO,NÃO,SIM,NÃO,NÃO,NÃO,SIM,Nível 08,Nível 02,Nível 08,Depressão
+Paciente-78,Frequentemente,Raramente,Raramente,Raramente,SIM,NÃO,NÃO,NÃO,NÃO,SIM,SIM,NÃO,NÃO,NÃO,Nível 02,Nível 02,Nível 04,Bipolar Tipo 2
+Paciente-79,Frequentemente,Às-Vezes,Às-Vezes,Raramente,NÃO,NÃO,NÃO,NÃO,SIM,SIM,SIM,NÃO,NÃO,NÃO,Nível 06,Nível 06,Nível 06,Normal
+Paciente-80,Com-Mais-Frequência,Raramente,Com-Mais-Frequência,Às-Vezes,NÃO,SIM,SIM,SIM,NÃO,SIM,SIM,SIM,SIM,SIM,Nível 06,Nível 03,Nível 03,Depressão
+Paciente-81,Às-Vezes,Às-Vezes,Frequentemente,Com-Mais-Frequência,SIM,SIM,NÃO,NÃO,NÃO,SIM,NÃO,NÃO,SIM,SIM,Nível 08,Nível 02,Nível 06,Bipolar Tipo 1
+Paciente-82,Com-Mais-Frequência,Às-Vezes,Às-Vezes,Frequentemente,SIM,NÃO,NÃO,NÃO,NÃO,NÃO,NÃO,SIM,NÃO,NÃO,Nível 02,Nível 04,Nível 05,Bipolar Tipo 2
+Paciente-83,Frequentemente,Raramente,Com-Mais-Frequência,Às-Vezes,NÃO,NÃO,NÃO,NÃO,NÃO,SIM,NÃO,SIM,SIM,SIM,Nível 05,Nível 07,Nível 04,Depressão
+Paciente-84,Raramente,Frequentemente,Com-Mais-Frequência,Com-Mais-Frequência,NÃO,NÃO,SIM,SIM,SIM,SIM,SIM,NÃO,SIM,SIM,Nível 07,Nível 08,Nível 06,Normal
+Paciente-85,Frequentemente,Raramente,Raramente,Às-Vezes,SIM,NÃO,NÃO,NÃO,NÃO,SIM,SIM,SIM,NÃO,NÃO,Nível 07,Nível 06,Nível 07,Bipolar Tipo 1
+Paciente-86,Às-Vezes,Às-Vezes,Com-Mais-Frequência,Frequentemente,SIM,SIM,SIM,SIM,NÃO,SIM,SIM,SIM,SIM,SIM,Nível 02,Nível 04,Nível 01,Bipolar Tipo 2
+Paciente-87,Frequentemente,Às-Vezes,Frequentemente,Com-Mais-Frequência,NÃO,SIM,NÃO,NÃO,SIM,NÃO,NÃO,SIM,NÃO,SIM,Nível 04,Nível 07,Nível 02,Depressão
+Paciente-88,Frequentemente,Raramente,Às-Vezes,Às-Vezes,SIM,NÃO,SIM,NÃO,NÃO,SIM,NÃO,SIM,SIM,SIM,Nível 09,Nível 02,Nível 08,Bipolar Tipo 1
+Paciente-89,Raramente,Com-Mais-Frequência,Às-Vezes,Frequentemente,NÃO,NÃO,SIM,SIM,NÃO,SIM,NÃO,SIM,NÃO,SIM,Nível 06,Nível 06,Nível 07,Bipolar Tipo 1
+Paciente-90,Às-Vezes,Frequentemente,Raramente,Às-Vezes,NÃO,NÃO,NÃO,SIM,SIM,SIM,SIM,SIM,SIM,NÃO,Nível 07,Nível 03,Nível 05,Normal
+Paciente-91,Com-Mais-Frequência,Raramente,Frequentemente,Frequentemente,NÃO,SIM,NÃO,SIM,NÃO,SIM,SIM,SIM,NÃO,SIM,Nível 04,Nível 04,Nível 03,Depressão
+Paciente-92,Frequentemente,Às-Vezes,Com-Mais-Frequência,Às-Vezes,SIM,SIM,NÃO,SIM,NÃO,SIM,NÃO,NÃO,SIM,SIM,Nível 02,Nível 06,Nível 04,Bipolar Tipo 2
+Paciente-93,Às-Vezes,Frequentemente,Com-Mais-Frequência,Frequentemente,NÃO,NÃO,NÃO,SIM,NÃO,NÃO,NÃO,NÃO,SIM,SIM,Nível 05,Nível 07,Nível 06,Normal
+Paciente-94,Frequentemente,Raramente,Frequentemente,Frequentemente,SIM,NÃO,SIM,NÃO,SIM,SIM,NÃO,NÃO,SIM,NÃO,Nível 07,Nível 01,Nível 07,Bipolar Tipo 1
+Paciente-95,Com-Mais-Frequência,Raramente,Com-Mais-Frequência,Às-Vezes,NÃO,SIM,NÃO,NÃO,NÃO,NÃO,NÃO,NÃO,NÃO,SIM,Nível 02,Nível 08,Nível 04,Depressão
+Paciente-96,Frequentemente,Às-Vezes,Raramente,Às-Vezes,SIM,SIM,NÃO,SIM,SIM,NÃO,SIM,SIM,NÃO,SIM,Nível 01,Nível 04,Nível 05,Bipolar Tipo 2
+Paciente-97,Às-Vezes,Frequentemente,Raramente,Às-Vezes,SIM,NÃO,NÃO,SIM,NÃO,SIM,NÃO,NÃO,SIM,SIM,Nível 05,Nível 05,Nível 08,Bipolar Tipo 1
+Paciente-98,Às-Vezes,Com-Mais-Frequência,Às-Vezes,Raramente,NÃO,NÃO,NÃO,SIM,NÃO,NÃO,NÃO,NÃO,SIM,SIM,Nível 06,Nível 02,Nível 06,Normal
+Paciente-99,Com-Mais-Frequência,Às-Vezes,Frequentemente,Frequentemente,NÃO,SIM,NÃO,NÃO,SIM,NÃO,NÃO,SIM,NÃO,NÃO,Nível 03,Nível 07,Nível 02,Depressão
+Paciente-100,Frequentemente,Raramente,Frequentemente,Às-Vezes,SIM,SIM,SIM,SIM,SIM,NÃO,NÃO,NÃO,SIM,NÃO,Nível 02,Nível 05,Nível 02,Bipolar Tipo 2
+Paciente-101,Frequentemente,Às-Vezes,Raramente,Frequentemente,SIM,NÃO,NÃO,NÃO,NÃO,SIM,SIM,NÃO,NÃO,SIM,Nível 08,Nível 01,Nível 08,Bipolar Tipo 1
+Paciente-102,Às-Vezes,Raramente,Com-Mais-Frequência,Com-Mais-Frequência,NÃO,SIM,NÃO,NÃO,NÃO,NÃO,SIM,NÃO,SIM,NÃO,Nível 01,Nível 06,Nível 03,Depressão
+Paciente-103,Raramente,Frequentemente,Raramente,Às-Vezes,NÃO,SIM,NÃO,NÃO,SIM,SIM,NÃO,SIM,SIM,NÃO,Nível 06,Nível 06,Nível 05,Bipolar Tipo 1
+Paciente-104,Às-Vezes,Com-Mais-Frequência,Às-Vezes,Raramente,NÃO,NÃO,SIM,SIM,NÃO,SIM,SIM,SIM,SIM,NÃO,Nível 07,Nível 04,Nível 05,Normal
+Paciente-105,Frequentemente,Às-Vezes,Com-Mais-Frequência,Frequentemente,SIM,SIM,SIM,NÃO,NÃO,NÃO,SIM,SIM,NÃO,NÃO,Nível 02,Nível 04,Nível 04,Bipolar Tipo 2
+Paciente-106,Com-Mais-Frequência,Raramente,Frequentemente,Com-Mais-Frequência,NÃO,SIM,SIM,SIM,NÃO,NÃO,SIM,NÃO,SIM,SIM,Nível 03,Nível 07,Nível 01,Depressão
+Paciente-107,Raramente,Frequentemente,Às-Vezes,Raramente,NÃO,NÃO,NÃO,NÃO,SIM,SIM,SIM,NÃO,SIM,SIM,Nível 06,Nível 05,Nível 07,Normal
+Paciente-108,Às-Vezes,Às-Vezes,Frequentemente,Frequentemente,NÃO,SIM,SIM,NÃO,SIM,SIM,NÃO,SIM,SIM,NÃO,Nível 08,Nível 07,Nível 05,Depressão
+Paciente-109,Frequentemente,Às-Vezes,Às-Vezes,Às-Vezes,SIM,SIM,SIM,SIM,NÃO,SIM,SIM,SIM,NÃO,SIM,Nível 02,Nível 01,Nível 01,Bipolar Tipo 2
+Paciente-110,Com-Mais-Frequência,Raramente,Raramente,Às-Vezes,NÃO,NÃO,SIM,NÃO,SIM,NÃO,NÃO,SIM,NÃO,SIM,Nível 03,Nível 03,Nível 03,Depressão
+Paciente-111,Às-Vezes,Com-Mais-Frequência,Frequentemente,Frequentemente,NÃO,NÃO,NÃO,SIM,NÃO,NÃO,NÃO,NÃO,SIM,NÃO,Nível 04,Nível 07,Nível 05,Normal
+Paciente-112,Às-Vezes,Às-Vezes,Frequentemente,Com-Mais-Frequência,SIM,SIM,NÃO,SIM,NÃO,NÃO,SIM,SIM,NÃO,NÃO,Nível 04,Nível 01,Nível 02,Bipolar Tipo 2
+Paciente-113,Raramente,Frequentemente,Frequentemente,Às-Vezes,SIM,NÃO,SIM,SIM,SIM,SIM,SIM,SIM,NÃO,SIM,Nível 08,Nível 08,Nível 05,Bipolar Tipo 1
+Paciente-114,Às-Vezes,Raramente,Às-Vezes,Com-Mais-Frequência,SIM,SIM,SIM,NÃO,NÃO,NÃO,SIM,NÃO,SIM,SIM,Nível 01,Nível 05,Nível 01,Bipolar Tipo 2
+Paciente-115,Raramente,Às-Vezes,Raramente,Frequentemente,NÃO,NÃO,NÃO,NÃO,NÃO,SIM,NÃO,NÃO,NÃO,NÃO,Nível 05,Nível 08,Nível 07,Normal
+Paciente-116,Com-Mais-Frequência,Raramente,Frequentemente,Às-Vezes,NÃO,SIM,NÃO,NÃO,SIM,NÃO,SIM,NÃO,NÃO,SIM,Nível 02,Nível 05,Nível 03,Depressão
+Paciente-117,Às-Vezes,Às-Vezes,Às-Vezes,Raramente,SIM,NÃO,NÃO,NÃO,NÃO,SIM,NÃO,NÃO,NÃO,SIM,Nível 06,Nível 07,Nível 08,Bipolar Tipo 1
+Paciente-118,Frequentemente,Às-Vezes,Frequentemente,Às-Vezes,SIM,NÃO,SIM,SIM,NÃO,NÃO,NÃO,SIM,NÃO,SIM,Nível 01,Nível 05,Nível 03,Bipolar Tipo 2
+Paciente-119,Frequentemente,Às-Vezes,Raramente,Raramente,NÃO,SIM,SIM,NÃO,SIM,SIM,SIM,NÃO,SIM,SIM,Nível 07,Nível 07,Nível 07,Depressão
+Paciente-120,Às-Vezes,Frequentemente,Raramente,Frequentemente,NÃO,NÃO,NÃO,SIM,SIM,NÃO,SIM,SIM,NÃO,NÃO,Nível 07,Nível 03,Nível 08,Normal
