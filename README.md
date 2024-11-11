@@ -75,7 +75,6 @@ Para configurar seu ambiente para o projeto, você precisará instalar os seguin
 ### Instalar Pacotes Necessários
 
 ```bash
-pip install kagglehub #biblioteca kagglehub
 pip install pandas #biblioteca pandas
 pip install matplotlib #biblioteca matplotlib
 pip install seaborn #biblioteca seaborn
